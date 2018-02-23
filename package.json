@@ -1,0 +1,16 @@
+{
+  "name": "birthday_app",
+  "version": "1.0.0",
+  "description": "This app is for remembering the birthdays of my friends",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abhiram Hatolkar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^5.0.3"
+  }
+}
